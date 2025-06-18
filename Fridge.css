@@ -1,0 +1,38 @@
+body {
+	background-image: url('fridge.jpg')
+	
+}
+
+h1 {
+	text-align: center;
+	color: navy;
+}
+h3 {
+	text-align: center;
+		color: navy;
+
+}
+
+#t1 {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;	
+	padding: 20px;
+	color: purple;
+}
+
+#toptable {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;	
+	padding: 20px;
+	color: purple;
+}
+
+a{
+		padding: 20px;
+}
+
+p{
+	size: 25px
+}

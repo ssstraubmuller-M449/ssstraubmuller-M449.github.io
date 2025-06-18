@@ -1,0 +1,42 @@
+h1 {
+	text-align: center;
+	
+}
+
+b {
+	font-size: 25px;
+	
+}
+
+a {
+	font-size: 25px;
+	
+}
+
+#bigt {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#t1 {
+	padding-left: auto;
+	padding-right: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#me {
+	margin-right: 150px;
+}
+
+#t2 {
+	padding-left: auto;
+	padding-right: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#cal {
+	margin-left: auto;
+	margin-right: auto;
+}

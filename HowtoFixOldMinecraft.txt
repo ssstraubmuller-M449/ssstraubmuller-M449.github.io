@@ -1,0 +1,7 @@
+How to fix old Minecraft:
+
+Issue: outdated language in options.txt
+
+change "en_us" to "en_US"
+
+done.

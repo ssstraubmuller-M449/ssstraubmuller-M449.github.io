@@ -12,9 +12,9 @@ b {
 	
 }
 
-a {
-	font-size: 25px;
-	
+#detexify {
+	font-size: 10px;
+	text-align: center;
 }
 
 #bigt {
@@ -27,10 +27,12 @@ a {
 	padding-right: auto;
 	margin-left: auto;
 	margin-right: auto;
+
 }
 
 #me {
 	margin-right: 150px;
+	font-size: 12px;
 }
 
 #t2 {
@@ -38,6 +40,7 @@ a {
 	padding-right: auto;
 	margin-left: auto;
 	margin-right: auto;
+	font-size: 25px;
 }
 
 #cal {

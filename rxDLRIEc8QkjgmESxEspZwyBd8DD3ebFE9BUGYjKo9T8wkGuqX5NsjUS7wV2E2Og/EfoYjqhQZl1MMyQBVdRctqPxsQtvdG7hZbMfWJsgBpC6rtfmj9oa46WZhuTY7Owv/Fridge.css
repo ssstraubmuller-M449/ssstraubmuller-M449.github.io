@@ -1,6 +1,7 @@
 body {
-	background-image: url('fridge.jpg')
-	
+	background-image: url('fridge.jpg');
+	font-family: "Comic Sans MS", sans;
+
 }
 
 h1 {
